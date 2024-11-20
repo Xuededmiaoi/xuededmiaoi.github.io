@@ -1,0 +1,1 @@
+# Welcome to BlogX! This is index.md
